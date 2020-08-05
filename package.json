@@ -1,7 +1,7 @@
 {
   "name": "picture-viewer-vue",
   "description": "简易图片查看插件",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "liweifei",
   "license": "MIT",
   "private": false,

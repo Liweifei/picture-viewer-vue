@@ -18,6 +18,5 @@ Vue.use(pv)
 this.$viewImg(url)
 
 # contact me for qq
-1195669615
-可以交流如何进行插件开发发布
+如有任何问题，可加1195669615
 ```
